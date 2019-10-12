@@ -9,12 +9,12 @@
 
 ## The classes
 
-- S class | AI projects
-- A class | advanced deep learning
-- B class | deep learning fundamentals
-- C class | machine learning
-- D class | data science
-- E class | advanced Python
+- S class | AI projects (WIP)
+- A class | advanced deep learning (WIP)
+- B class | deep learning fundamentals (WIP)
+- C class | machine learning (WIP)
+- D class | data science (WIP)
+- E class | advanced Python (WIP)
 - F class | Python fundamentals
 
 ## The structure
