@@ -14,7 +14,7 @@
 - B class | deep learning fundamentals (WIP)
 - C class | machine learning (WIP)
 - D class | data science (WIP)
-- E class | advanced Python (WIP)
+- E class | advanced Python
 - F class | Python fundamentals
 
 ## The structure
@@ -25,6 +25,6 @@
 
 ## How to participate
 
-1. Join the our Slack (link will be posted in the FB group and today’s Meetup.com event)
+1. Join the our Slack
 1. Complete the registration form (link will be in #general channel on Slack)
 1. Further information will be in #general
