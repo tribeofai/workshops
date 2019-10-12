@@ -32,7 +32,7 @@ Vilnius School of AI has five different curriculums depending on your current sk
 - S class | AI projects (WIP)
 - A class | advanced deep learning (WIP)
 - B class | deep learning fundamentals (WIP)
-- C class | machine learning (WIP)
+- C class | machine learning
 - D class | data science
 - E class | advanced Python
 - F class | Python fundamentals
