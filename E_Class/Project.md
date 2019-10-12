@@ -30,3 +30,10 @@ For this project you can choose your own idea or you can choose one of these ide
 ## Presentation
 
 You can present your project during our meetings. You have up to 5 minutes to present, so use this time wisely.
+
+## Evaluation
+
+- [ ] Code quality
+- [ ] Code architecture
+- [ ] Fulfilment of the idea
+- [ ] Adherence to the requirements
