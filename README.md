@@ -16,13 +16,13 @@ The goal of the Workshops is to help you learn AI to a point, where you are read
 
 ## The Plan
 
-- You will be grouped into squads - each squad member is your learning teammate and will help understand the content and stay motivated.
+- You will be grouped into teams - each team member will help understand the content and stay motivated.
 - You will learn in week-long sprints. For those of you, who are not familiar with Scrum, a sprint is just a time-boxed iteration of effort.
 - At the beginning of each sprint, we will have a sprint planning, where we will decide on your sprint goal and tasks required to achieve this goal.
 - During the sprint, you will work on online courses, Kaggle competitions or portfolio building projects based on your goal for the sprint.
 - At the end of each sprint, we will have a sprint review, where you will present how well you have managed to achieve your goal.
 - After each sprint (after the sprint review, but before the sprint planning), we will have a sprint retrospective, where we try to improve your learning process.
-- You will receive support from and provide support to other squads, which will be learning similar things, just at a different level.
+- You will receive support from and provide support to other teams, which will be learning similar things, just at a different level.
 - You will have fun!
 
 ## The Classes
@@ -37,24 +37,24 @@ Vilnius School of AI has five different curriculums depending on your current sk
 - E class | advanced Python
 - F class | Python fundamentals
 
-## Squad Types
+## Team Types
 
-There are two types of squads - remote squads and regular squads. The difference between remote squads and regular squads are that the regular squads meet every Saturday and remote squads don't physically meet. All squad types of the same class learn using the same course curriculum and have access to the same materials. Choosing the squad type depends on your ability to meet every Saturday and ability to commit at least 8 hours per week for learning. If you can do that then apply for the regular squads and if not then go for remote squads.
+There are two types of teams - remote teams and regular teams. The difference between remote teams and regular teams are that the regular teams meet every Saturday and remote teams don't physically meet. All team types of the same class learn using the same course curriculum and have access to the same materials. Choosing the team type depends on your ability to meet every Saturday and ability to commit at least 8 hours per week for learning. If you can do that then apply for the regular team and if not then go for remote teams.
 
-### Regular Squads
+### Regular Teams
 
 - Goal: teach you practical AI skills
 - Time: every Saturday
 - Location: Sauletekio al. 15, Room 715 (Thanks, CodeAcademy!)
-- Squad size: up to 16 people
+- Team size: up to 16 people
 - Time commitment: 8+ hours / week
 
-### Remote Squads
+### Remote Teams
 
 - Goal: teach you practical AI skills.
 - Time: flexible
 - Location: flexible
-- Squad size: no limit
+- Team size: no limit
 - Time commitment: flexible
 
 ## How to participate
