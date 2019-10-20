@@ -29,7 +29,7 @@ The goal of the Workshops is to help you learn AI to a point, where you are read
 
 Vilnius School of AI has five different curriculums depending on your current skill level, called classes. F class is for absolute beginners and S class is for people skilled in deep learning, who want to do AI projects. You can learn about each of the classes and how to choose a class, which is right for you current skill level below.
 
-- S class | AI projects (WIP)
+- S class | AI projects
 - A class | advanced deep learning
 - B class | deep learning fundamentals
 - C class | machine learning
