@@ -5,6 +5,7 @@
 For this project you can choose your own idea or you can choose one of these ideas. I'd recommend choosing the idea based on your interest in the subject.
 
 - [Kaggle Competitons](https://www.kaggle.com/competitions)
+- Portfolio Projects
 
 ## Requirements
 
