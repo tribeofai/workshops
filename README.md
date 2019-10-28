@@ -1,6 +1,6 @@
-# Vilnius School of AI | Workshops
+# Tribe of AI | Workshops
 
-During the first Vilnius School of AI meetup, we announced our special surprise for you - artificial intelligence workshops. We want to use the workshops to achieve great things, so I'd like to explain what they will be exactly and why should you join them. The main idea behind our approach to teaching you AI is to help you avoid mistakes while learning. This may seem easy, but I see people in the forums wasting their time (months and even years) learning exactly the wrong things. Not to mention that I have made a number of mistakes myself, even after spending quite a lot of time planning and thinking about how to learn this subject.
+During the first Tribe of AI meetup, we announced our special surprise for you - artificial intelligence workshops. We want to use the workshops to achieve great things, so I'd like to explain what they will be exactly and why should you join them. The main idea behind our approach to teaching you AI is to help you avoid mistakes while learning. This may seem easy, but I see people in the forums wasting their time (months and even years) learning exactly the wrong things. Not to mention that I have made a number of mistakes myself, even after spending quite a lot of time planning and thinking about how to learn this subject.
 
 ## The Goal
 
@@ -27,7 +27,7 @@ The goal of the Workshops is to help you learn AI to a point, where you are read
 
 ## The Classes
 
-Vilnius School of AI has five different curriculums depending on your current skill level, called classes. F class is for absolute beginners and S class is for people skilled in deep learning, who want to do AI projects. You can learn about each of the classes and how to choose a class, which is right for you current skill level below.
+Tribe of AI has five different curriculums depending on your current skill level, called classes. F class is for absolute beginners and S class is for people skilled in deep learning, who want to do AI projects. You can learn about each of the classes and how to choose a class, which is right for you current skill level below.
 
 - S class | AI projects
 - A class | advanced deep learning
