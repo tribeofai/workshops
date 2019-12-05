@@ -45,7 +45,6 @@ There are two types of teams - remote teams and regular teams. The difference be
 
 - Goal: teach you practical AI skills
 - Time: every Saturday
-- Location: Sauletekio al. 15, Room 715 (Thanks, CodeAcademy!)
 - Team size: up to 16 people
 - Time commitment: 8+ hours / week
 
@@ -53,7 +52,6 @@ There are two types of teams - remote teams and regular teams. The difference be
 
 - Goal: teach you practical AI skills.
 - Time: flexible
-- Location: flexible
 - Team size: no limit
 - Time commitment: flexible
 
